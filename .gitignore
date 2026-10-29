@@ -1,0 +1,13 @@
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Never commit credentials or local secret files
+.env
+*.pem
+*.key
+*.pfx
+*.p12
+credentials.json
